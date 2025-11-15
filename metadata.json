@@ -1,0 +1,7 @@
+{
+  "name": "AI Narrator & Content Deconstructor",
+  "description": "Transforms any text into a structured, narrated audiobook. It also provides a voice assistant to answer questions about the generated content, creating an engaging and immersive learning experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
